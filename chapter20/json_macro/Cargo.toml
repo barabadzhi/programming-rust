@@ -1,0 +1,6 @@
+[package]
+authors = ["Bogdan Arabadzhi <bogdan.today@gmail.com>"]
+name = "json_macro"
+version = "0.1.0"
+
+[dependencies]
